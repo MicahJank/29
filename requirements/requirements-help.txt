@@ -29,7 +29,7 @@ attrs==24.2.0
     # via
     #   -c requirements/../requirements.txt
     #   aiohttp
-certifi==2024.7.4
+certifi==2026.10.19
     # via
     #   -c requirements/../requirements.txt
     #   httpcore
