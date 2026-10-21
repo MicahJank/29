@@ -15,7 +15,7 @@ blinker==1.8.2
     # via streamlit
 cachetools==5.5.0
     # via streamlit
-certifi==2024.7.4
+certifi==2026.10.19
     # via
     #   -c requirements/../requirements.txt
     #   requests
